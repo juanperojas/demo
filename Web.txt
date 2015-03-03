@@ -1,0 +1,9 @@
+<handlers>
+      <add name="hndDescarga" verb="POST" path="Descarga/Descarga.aspx" type="SIE.Presentacion.VotoExtranjero.ProxyDescargaRS" />
+      <add name="hndDescargaDocumento" verb="POST" path="Descarga/DescargaDocumento.aspx" type="SIE.Presentacion.VotoExtranjero.ProxyDescargaDocumento" />
+      <add name="hndDescargaArchivo" verb="POST" path="Descarga/DescargaArchivo.aspx" type="SIE.Presentacion.VotoExtranjero.DescargaArchivo" />
+    </handlers>
+
+
+
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\ReportViewer\Microsoft.ReportViewer.WebForms.dll
